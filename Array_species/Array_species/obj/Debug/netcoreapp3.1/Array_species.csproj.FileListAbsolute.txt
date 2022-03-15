@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Array_species\Array_species\bin\Debug\netcoreapp3.1\Array_species.exe
+C:\Users\User\source\repos\Array_species\Array_species\bin\Debug\netcoreapp3.1\Array_species.deps.json
+C:\Users\User\source\repos\Array_species\Array_species\bin\Debug\netcoreapp3.1\Array_species.runtimeconfig.json
+C:\Users\User\source\repos\Array_species\Array_species\bin\Debug\netcoreapp3.1\Array_species.runtimeconfig.dev.json
+C:\Users\User\source\repos\Array_species\Array_species\bin\Debug\netcoreapp3.1\Array_species.dll
+C:\Users\User\source\repos\Array_species\Array_species\bin\Debug\netcoreapp3.1\Array_species.pdb
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.AssemblyInfo.cs
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.dll
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.pdb
+C:\Users\User\source\repos\Array_species\Array_species\obj\Debug\netcoreapp3.1\Array_species.genruntimeconfig.cache
